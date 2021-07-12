@@ -1,0 +1,12 @@
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\bin\Debug\net5.0\OCPLibrary.deps.json
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\bin\Debug\net5.0\OCPLibrary.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\bin\Debug\net5.0\ref\OCPLibrary.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\bin\Debug\net5.0\OCPLibrary.pdb
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.csproj.AssemblyReference.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.AssemblyInfoInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.AssemblyInfo.cs
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.csproj.CoreCompileInputs.cache
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\ref\OCPLibrary.dll
+C:\Users\prayal\Desktop\Personal\Learning\Current\code\SOLID Patterns\OCPDemo\OCPLibrary\obj\Debug\net5.0\OCPLibrary.pdb
