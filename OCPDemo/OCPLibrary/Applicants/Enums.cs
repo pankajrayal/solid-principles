@@ -6,9 +6,10 @@ using System.Threading.Tasks;
 
 namespace OCPLibrary
 {
-    public class PersonModel
+    public enum EmployeeType
     {
-        public string FirstName { get; set; }
-        public string LastName { get; set; }
+        Staff,
+        Manager,
+        Executive
     }
 }
